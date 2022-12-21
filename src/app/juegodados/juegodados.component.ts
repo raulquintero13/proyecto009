@@ -28,7 +28,7 @@ export class JuegodadosComponent implements OnInit{
     if (this.valor1==this.valor2 && this.valor1==this.valor3)
       this.resultado = 'Gano';
     else
-      this.resultado = "";
+      this.resultado = "Sigue Participando";
   }
 
 

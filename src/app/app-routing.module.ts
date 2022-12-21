@@ -5,14 +5,9 @@ import { JuegodadosComponent } from './juegodados/juegodados.component';
 import { AcercadeComponent } from './acercade/acercade.component';
 
 const routes: Routes = [
-  {
-    path: 'juegodados',
-    component: JuegodadosComponent
-  },
-  {
-    path: 'acercade',
-    component: AcercadeComponent
-  }
+  {path: '', component: JuegodadosComponent},
+  {path: 'juegodados', component: JuegodadosComponent},
+  {path: 'acercade', component: AcercadeComponent}
 ];
 
 
