@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Tarea.-
 Implementar una aplicación que muestre dos enlaces en la parte superior de la página que acceda el primero al juego de tres dados que habíamos desarrollado en ejercicios anteriores. El segundo enlace debe mostrar mediante otra ruta el nombre del programador, versión y fecha de desarrollo.
 
+## Prerview
 ![Preview](https://raw.githubusercontent.com/raulquintero13/proyecto009/main/docs/preview.png)
 
 
